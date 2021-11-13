@@ -41,4 +41,4 @@
           <a href="#contact">Contact</a>
 </details>
 
-## About the Project
+## Sobre o Projeto
