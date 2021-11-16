@@ -32,7 +32,7 @@
 
 <!-- TABLE OF CONTENTS -->
 <details close="close" align="center">
-  <summary><b>Table of Contents</b></summary>
+  <summary><b>Sumário</b></summary>
           <a href="#sobre-o-projeto">Sobre o Projeto</a> |
           <a href="#getting-started">Getting Started</a> |
           <a href="#quick-guide">Quick Guide</a> |
