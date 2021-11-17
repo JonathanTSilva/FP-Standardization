@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <h1 align="center">
   <br>
-  <a href=""><img src="" alt="Markdownify" width="200"></a>
+  <a href=""><img src="https://blog.delogic.com.br/wp-content/uploads/2020/12/padroniza%C3%A7%C3%A3o-de-processos-da-ind%C3%BAstria-aliment%C3%ADcia.jpg" alt="Markdownify" width="200"></a>
   <br>
   Templates - Padronizações de Projetos
   <br>
