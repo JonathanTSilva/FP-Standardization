@@ -36,7 +36,7 @@
           <a href="#sobre-o-projeto">Sobre o Projeto</a> |
           <a href="#primeiros-passos">Primeiros Passos</a> |
           <a href="#guia-rapido">Guia Rápido</a> |
-          <a href="#contributing">Contributing</a> |
+          <a href="#contribuindo">Contribuindo</a> |
           <a href="#license">License</a> |
           <a href="#contact">Contact</a>
 </details>
@@ -46,3 +46,5 @@
 ## Primeiros Passos
 
 ## Guia Rápido
+
+## Contribuindo
