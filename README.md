@@ -34,7 +34,7 @@
 <details close="close" align="center">
   <summary><b>Sumário</b></summary>
           <a href="#sobre-o-projeto">Sobre o Projeto</a> |
-          <a href="#getting-started">Getting Started</a> |
+          <a href="#primeiros-passos">Primeiros Passos</a> |
           <a href="#quick-guide">Quick Guide</a> |
           <a href="#contributing">Contributing</a> |
           <a href="#license">License</a> |
@@ -42,3 +42,5 @@
 </details>
 
 ## Sobre o Projeto
+
+## Primeiros Passos
