@@ -35,7 +35,7 @@
   <summary><b>Sumário</b></summary>
           <a href="#sobre-o-projeto">Sobre o Projeto</a> |
           <a href="#primeiros-passos">Primeiros Passos</a> |
-          <a href="#guia-rapido">Guia Rápido</a> |
+          <a href="#guia-rápido">Guia Rápido</a> |
           <a href="#contribuindo">Contribuindo</a> |
           <a href="#license">License</a> |
           <a href="#contact">Contact</a>
