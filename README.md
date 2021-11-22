@@ -48,3 +48,14 @@
 ## Guia Rápido
 
 ## Contribuindo
+
+<!-- MIT License -->
+<a href="https://github.com/JonathanTSilva/TP-IFSP/blob/main/LICENSE"><img width="100px" src="https://miro.medium.com/max/886/1*C87EjxGeMPrkTuVRVWVg4w.png" align="right" /></a>
+
+## Licença
+
+Distribuída por MIT License. Veja [LICENSE](https://github.com/JonathanTSilva/FP-CloudCavitation/blob/main/LICENSE) para mais informações.
+
+## Contact
+[Jonathan T. da Silva](https://www.linkedin.com/in/JonathanTSilva/) - jonathan.t@aluno.ifsp.edu.br <br/>
+Link do projeto: [JonathanTSilva/FP-CloudCavitation](https://github.com/JonathanTSilva/FP-CloudCavitation)
