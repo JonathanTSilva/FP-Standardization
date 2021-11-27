@@ -50,7 +50,7 @@
 ## Contribuindo
 
 <!-- MIT License -->
-<a href="https://github.com/JonathanTSilva/TP-IFSP/blob/main/LICENSE"><img width="100px" src="https://miro.medium.com/max/886/1*C87EjxGeMPrkTuVRVWVg4w.png" align="right" /></a>
+<a href="https://github.com/JonathanTSilva/TP-Standardization/blob/main/LICENSE"><img width="100px" src="https://miro.medium.com/max/886/1*C87EjxGeMPrkTuVRVWVg4w.png" align="right" /></a>
 
 ## Licença
 
