@@ -1,3 +1,7 @@
+<!-- Simple logo -->
+<a href="#padronização-de-um-projeto-javascript"><img width="400px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--mqD0qz2---/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/anp5enlwcmw3ogu13a46.png" align="right" /></a>
+
+
 # Padronização de um projeto JavaScript
 
 Mesmo se você estiver em um projeto pessoal, trabalhando sozinho, configurar um estilo padrão para o seu código vai ajudar bastante a manter as coisas organizadas. Há diversos estilos no mercado (você pode criar o seu, inclusive), como gosto pessoal, há preferência para _Airbnb JavaScript Style Guide_. É com base nesse guia de estilo que nosso código será formatado. Lembre-se: **organização, padronização, legibilidade e separação de responsabilidades nunca é demais em projetos de desenvolvimento.**
