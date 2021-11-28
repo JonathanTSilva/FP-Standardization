@@ -42,6 +42,7 @@
 </details>
 
 ## Sobre o Projeto
+Mesmo se você estiver em um projeto pessoal, trabalhando sozinho, configurar um estilo padrão para o seu código vai ajudar bastante a manter as coisas organizadas. [...] Organização, padronização, legibilidade e separação de responsabilidades nunca é demais em projetos de desenvolvimento. [(Lima, 2019)](https://marciofrancalima.com.br/blog/eslint-prettier-e-editorconfig/). Assim, todos os guias e exemplos utilizados para padronizar um projeto estão apresentados aqui neste repositório.
 
 ## Primeiros Passos
 
