@@ -55,7 +55,7 @@ Mesmo se você estiver em um projeto pessoal, trabalhando sozinho, configurar um
 
 ## Licença
 
-Distribuída por MIT License. Veja [LICENSE](https://github.com/JonathanTSilva/FP-CloudCavitation/blob/main/LICENSE) para mais informações.
+Distribuída por **MIT License**. Veja [LICENSE](https://github.com/JonathanTSilva/FP-CloudCavitation/blob/main/LICENSE) para mais informações.
 
 ## Contact
 [Jonathan T. da Silva](https://www.linkedin.com/in/JonathanTSilva/) - jonathan.t@aluno.ifsp.edu.br <br/>
