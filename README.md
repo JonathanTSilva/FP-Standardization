@@ -48,15 +48,28 @@ Mesmo se você estiver em um projeto pessoal, trabalhando sozinho, configurar um
 
 ## Guia Rápido
 
-## Contribuindo
+## 🤝 Contribuindo
 
-<!-- MIT License -->
+Se você quer contribuir com este projeto e aprimorá-lo, sua ajuda é sempre bem vinda! Por favor, leia as [diretrizes de contribuição][A] para contribuir corretamente. :tada:
+
+<!-- LICENÇA -->
 <a href="https://github.com/JonathanTSilva/TP-Standardization/blob/main/LICENSE"><img width="100px" src="https://miro.medium.com/max/886/1*C87EjxGeMPrkTuVRVWVg4w.png" align="right" /></a>
 
-## Licença
+## 📝 Licença
 
-Distribuída por **MIT License**. Veja [LICENSE](https://github.com/JonathanTSilva/FP-CloudCavitation/blob/main/LICENSE) para mais informações.
+Distribuída por **MIT License**. Veja [LICENSE][B] para mais informações.
 
-## Contact
-[Jonathan T. da Silva](https://www.linkedin.com/in/JonathanTSilva/) - jonathantobias2009@hotmail.com <br/>
-Link do projeto: [JonathanTSilva/FP-CloudCavitation](https://github.com/JonathanTSilva/FP-CloudCavitation)
+## 📧 Contato
+
+:globe_with_meridians: [Jonathan T. da Silva][C] <br>
+:email: jonathantobias2009@hotmail.com <br>
+:package: [JonathanTSilva/<REPO>][D]
+
+<!-- MARKDOWN LINKS>
+<!-- SITES -->
+[A]: https://github.com/JonathanTSilva/TP-Standardization/blob/main/Docs/CONTRIBUTING.md
+[B]: https://github.com/JonathanTSilva/TP-Standardization/blob/main/LICENSE
+[C]: https://www.linkedin.com/in/JonathanTSilva/
+[D]: https://github.com/JonathanTSilva/TP-Standardization
+
+<!-- IMAGENS -->
