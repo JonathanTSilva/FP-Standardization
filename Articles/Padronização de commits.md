@@ -16,3 +16,7 @@ $ npm i -g gitmoji-cli
 ```
 
 Com o gitmoji instalando, você já pode utilizar a ferramenta através do utilitário gitmoji via terminal. Através do parâmetro -l é possível visualizar a listagem de todos os emojis e suas respectivas representatividades.
+
+## Commitizen
+
+https://github.com/commitizen/cz-cli#conventional-commit-messages-as-a-global-utility
